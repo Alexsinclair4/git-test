@@ -7,3 +7,12 @@
 - about the page 
 - testing github 
 - pushing to github
+
+### simple table 
+
+|Table title  | table description|
+| ------------| -----------------|
+| sample data | Another data     |
+| sample data | Another data     |
+| sample data | Another data     |
+| sample data | Another data     |
