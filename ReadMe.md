@@ -22,3 +22,7 @@
 Code highlight 
 
 ```
+
+This is how i link an image with markdown
+
+[_Safari icon_]('icon safari.png')
