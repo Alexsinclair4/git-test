@@ -25,4 +25,4 @@ Code highlight
 
 This is how i link an image with markdown
 
-[_Safari icon_]('Icon safari.png')
+![_Safari icon_](Icon safari.png,'')
