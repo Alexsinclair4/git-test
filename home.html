@@ -4,9 +4,28 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Home</title>
+    <style>
+        .world{
+            width: 200px;
+            height: 200px;
+            border-radius: 50%;
+            background-image: url(download\ \(1\).jfif);
+            background-size: cover;
+            animation: rotate-world 24s linear infinite;
+        }
+        @keyframes rotate-world {
+            from{
+                transform:rotateY(0deg);
+            }
+            to{
+                transform: rotateY(360deg);
+            }
+        }
+    </style>
 </head>
 <body>
     <p>This is Home Page</p>
     <h1>Kyiev A City of Dreams</h1>
+    <div class="world"></div>
 </body>
 </html>
